@@ -2,3 +2,13 @@ whatsapp
 all good
 manish Sharma this side
 i am persuing My btech from Maharaja Agarasen Institue of Technology
+ 
+ //git clone done 
+copy a clone file from github and save in new folder of vs code and search clone repository
+and at the top URL option click and paste the url of repository and after that select dekstop option and your file is save and then u can 
+open the clone repostory in your vs code.
+
+//git remote -v
+for remove git origin from remote
+git remote remove origin - blank origin 
+git remote add origin - get back origin
