@@ -1,0 +1,2 @@
+git ignore command for ignoring files.
+git 3.txt files
